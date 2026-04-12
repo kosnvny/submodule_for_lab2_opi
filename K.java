@@ -35,6 +35,7 @@ public class K extends null implements H {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+<<<<<<< HEAD
 
     public void ab() {
         return;
@@ -43,4 +44,6 @@ public class K extends null implements H {
     public float ff() {
         return 0;
     }
+=======
+>>>>>>> br3
 }

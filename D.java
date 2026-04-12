@@ -24,11 +24,16 @@ public class D extends G {
         return 11.09;
     }
 
+<<<<<<< HEAD
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
 
     public java.lang.Class qq() {
         return getClass();
+=======
+    public long dd() {
+        return 100500;
+>>>>>>> br3
     }
 }

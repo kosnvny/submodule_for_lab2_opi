@@ -27,6 +27,7 @@ public class G extends K {
     public int af() {
         return -1;
     }
+<<<<<<< HEAD
 
     public Object pp() {
         return this;
@@ -39,4 +40,6 @@ public class G extends K {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+=======
+>>>>>>> br3
 }
