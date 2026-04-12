@@ -11,4 +11,8 @@ public class G extends K {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }
