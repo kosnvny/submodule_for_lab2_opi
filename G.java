@@ -19,4 +19,12 @@ public class G extends K {
     public int cc() {
         return 39;
     }
+
+    public long ac() {
+        return 222;
+    }
+
+    public int af() {
+        return -1;
+    }
 }

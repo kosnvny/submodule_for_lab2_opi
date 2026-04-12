@@ -27,4 +27,12 @@ public class K implements H {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public long ac() {
+        return 333;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
