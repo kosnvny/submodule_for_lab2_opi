@@ -1,0 +1,14 @@
+public class D extends G {
+
+    private String c = "hello";
+
+    private byte f = 1;
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+}
