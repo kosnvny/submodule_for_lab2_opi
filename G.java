@@ -12,6 +12,14 @@ public class G extends K {
         return new java.util.LinkedList<Integer>;
     }
 
+    public long ac() {
+        return 222;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
     public int ae() {
         return java.lang.Math.abs(-6);
     }
@@ -20,17 +28,8 @@ public class G extends K {
         return 39;
     }
 
-    public long ac() {
-        return 222;
-    }
-
     public int af() {
         return -1;
-    }
-<<<<<<< HEAD
-
-    public Object pp() {
-        return this;
     }
 
     public java.util.List<String> jj() {
@@ -40,6 +39,12 @@ public class G extends K {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
-=======
->>>>>>> br3
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
