@@ -19,4 +19,8 @@ public class K implements H {
     public Object rr() {
         return null;
     }
+
+    public int ae() {
+        return 8;
+    }
 }
