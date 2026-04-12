@@ -15,4 +15,8 @@ public class D extends G {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public float ff() {
+        return 0;
+    }
 }
