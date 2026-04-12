@@ -27,4 +27,12 @@ public class G extends K {
     public int af() {
         return -1;
     }
+
+    public Object pp() {
+        return this;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }

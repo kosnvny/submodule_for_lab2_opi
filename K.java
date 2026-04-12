@@ -1,4 +1,4 @@
-public class K implements H {
+public class K extends null implements H {
 
     private int a = 42;
 
@@ -34,5 +34,9 @@ public class K implements H {
 
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public void ab() {
+        return;
     }
 }
