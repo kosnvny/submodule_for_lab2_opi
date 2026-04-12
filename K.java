@@ -39,4 +39,8 @@ public class K extends null implements H {
     public void ab() {
         return;
     }
+
+    public float ff() {
+        return 0;
+    }
 }
