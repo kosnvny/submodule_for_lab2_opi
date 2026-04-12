@@ -23,4 +23,8 @@ public class K implements H {
     public int ae() {
         return 8;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
