@@ -23,4 +23,8 @@ public class D extends G {
     public double ad() {
         return 11.09;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }

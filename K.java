@@ -31,4 +31,8 @@ public class K implements H {
     public long ac() {
         return 333;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
