@@ -1,10 +1,6 @@
-public class H extends null {
+public interface H {
 
     void bb();
 
     Object rr();
-
-    public double ee() {
-        return 0.000001;
-    }
 }
